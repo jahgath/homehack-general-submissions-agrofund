@@ -4,7 +4,7 @@ Link to working video and pictures.
 https://drive.google.com/drive/folders/1A2nglJo-Hzrfe5KipSVWzq7pwlkR-M9C?usp=sharing
 
 AgroFund:
--change into the AgroFund directory.
+-first change into the AgroFund directory.
 
 npm install 
 
